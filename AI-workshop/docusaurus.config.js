@@ -9,7 +9,7 @@ const config = {
   title: 'Build your own application with TDD and chatGPT',
   tagline: 'AI Workshop - 30.03.2023',
   url: 'https://the-experts.nl',
-  baseUrl: '/ai-workshop-docs/',
+  baseUrl: '/ai-workshop-docs/AI-workshop',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
