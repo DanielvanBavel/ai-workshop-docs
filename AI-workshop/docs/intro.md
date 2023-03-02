@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Introductie
-Welkom bij de AI workshop "TDD met ChatGPT" In deze workshop gaan we applicatie(s) bouwen aan de hand van requirements met TDD en ChatGPT.
+Welkom bij de AI workshop "BDD met ChatGPT" In deze workshop gaan we applicatie(s) bouwen aan de hand van requirements met BDD en ChatGPT.
 
 Veel plezier!
 

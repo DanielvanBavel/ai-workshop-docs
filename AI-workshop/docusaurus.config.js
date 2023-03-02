@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Build your own application with TDD and chatGPT',
+  title: 'Build your own application with BDD and ChatGPT',
   tagline: 'AI Workshop - 30.03.2023',
   url: 'https://the-experts.nl',
   baseUrl: '/ai-workshop-docs/',
@@ -49,7 +49,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'TDD with chatGPT Workshop',
+        title: 'BDD with ChatGPT Workshop',
         logo: {
           alt: 'The-experts logo',
           src: 'img/theexperts_WitOranje.png',
@@ -70,7 +70,7 @@ const config = {
       },
       footer: {
         style: 'light',
-        copyright: `Copyright © ${new Date().getFullYear()} The/experts. AI workshop`,
+        copyright: `Copyright © ${new Date().getFullYear()} the/experts. AI workshop`,
       },
       prism: {
         theme: lightCodeTheme,
