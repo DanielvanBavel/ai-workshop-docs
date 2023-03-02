@@ -51,7 +51,7 @@ const config = {
       navbar: {
         title: 'TDD with chatGPT Workshop',
         logo: {
-          alt: 'codecentric logo',
+          alt: 'The-experts logo',
           src: 'img/theexperts_WitOranje.png',
         },
         // items: [
